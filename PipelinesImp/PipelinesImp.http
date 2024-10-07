@@ -1,0 +1,6 @@
+@PipelinesImp_HostAddress = http://localhost:5058
+
+GET {{PipelinesImp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
